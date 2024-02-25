@@ -65,6 +65,11 @@ fork()
 dup2()
 execve()
 
+
+
+
+
+
 ### pipe()
 
 This function facilitates direct communication between two processes. It establishes a one-way data channel, allowing one process to send its output directly to another process as input.
@@ -80,3 +85,22 @@ With dup2(), a file descriptor can be made to refer to another file descriptor, 
 ### execve()
 
 When called, execve() replaces the current process image with a new one specified by the given program. This loads the program into memory and begins its execution, effectively transitioning the current process into the desired program.
+
+## Usage
+
+To compile the binaries
+
+```
+  make
+```
+This will compile two executables: pipex and pipex_bonus.
+
+you can also
+```
+make pipex
+```
+or
+```
+make bonus
+```
+To compile each individually.
