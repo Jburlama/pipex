@@ -86,7 +86,7 @@ With dup2(), a file descriptor can be made to refer to another file descriptor, 
 
 When called, execve() replaces the current process image with a new one specified by the given program. This loads the program into memory and begins its execution, effectively transitioning the current process into the desired program.
 
-## Usage
+# 🛠️ Usage
 
 To compile the binaries
 
