@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/2d56350e-8520-46a4-a5be-9307b7414495)
 
-# pipex
 
 ## Pipex is a 42 school project about handling pipes, forks, and redirections of input and output.
 
