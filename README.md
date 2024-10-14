@@ -106,7 +106,6 @@ make bonus
 To compile each individually.
 
 
-https://github.com/user-attachments/assets/cdf8361c-4028-4701-9a15-ceb9e6bf5aaa
 
 
 
