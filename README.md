@@ -105,6 +105,13 @@ make bonus
 ```
 To compile each individually.
 
+
+https://github.com/user-attachments/assets/cdf8361c-4028-4701-9a15-ceb9e6bf5aaa
+
+
+
+
+
 ---------------------------------------
 
 **pipex** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
