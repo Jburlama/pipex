@@ -116,4 +116,3 @@ https://github.com/user-attachments/assets/55d52e39-f8b9-4b0f-b0f8-54329a1932bc
 
 **Install** [norminette](https://github.com/42School/norminette).
 
-For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138317/en.subject.pdf)
